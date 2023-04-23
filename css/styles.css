@@ -373,7 +373,12 @@ a {
 
 .setting-801 {
     width: 100%;
-    height: 350px;
+    height: 100%;
+    background: #1B3764;
+}
+
+.setting-802 {
+    width: 100%;
     background: #1B3764;
 }
 
